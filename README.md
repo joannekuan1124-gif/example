@@ -25,3 +25,7 @@ installation :
 * add (staging) plus sign `git add [filename]'`
 * commit  add message and click commit or `git commit -m '[message]'`
 * push `git push`
+
+* `git pull` - a syncing command ; always pull before coding
+* `git checkout` - access different branches or go back to a previous version
+* `git -b checkout [name of branch]` - access different branches or go back to a previous version
