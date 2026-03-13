@@ -24,4 +24,4 @@ installation :
 
 * add (staging) plus sign `git add [filename]'`
 * commit  add message and click commit or `git commit -m '[message]'`
-* push
+* push `git push`
